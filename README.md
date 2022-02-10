@@ -1,1 +1,1 @@
-# Sprites-con-imagen
+# Sprites-
